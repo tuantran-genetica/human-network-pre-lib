@@ -1,8 +1,8 @@
 package pre
 
 import (
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/types"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/utils"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/types"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/utils"
 )
 
 // NewPreScheme creates a new instance of preScheme with generated system parameters

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/testutils"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/testutils"
 )
 
 type AESGCMOptions struct {

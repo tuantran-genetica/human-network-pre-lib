@@ -1,4 +1,4 @@
-module github.com/tuantran-genetica/human-network-pre-lib/pre-go
+module github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go
 
 go 1.23
 

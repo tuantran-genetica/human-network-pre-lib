@@ -8,8 +8,8 @@ import (
 	"os"
 
 	"github.com/consensys/gnark-crypto/ecc/bn254"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/types"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/utils"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/types"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/utils"
 )
 
 // generateSystemParameters returns the system parameters for pairing-based cryptography:

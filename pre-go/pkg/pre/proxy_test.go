@@ -3,8 +3,8 @@ package pre_test
 import (
 	"testing"
 
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/testutils"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/testutils"
 )
 
 func BenchmarkReEncryption(b *testing.B) {

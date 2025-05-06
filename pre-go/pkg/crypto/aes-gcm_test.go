@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"testing"
 
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/crypto"
 	"github.com/stretchr/testify/require"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/crypto"
 )
 
 func TestAESGCM(t *testing.T) {

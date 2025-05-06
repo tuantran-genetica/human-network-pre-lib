@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/testutils"
 	"github.com/stretchr/testify/require"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/testutils"
 )
 
 func TestSerializeDeserializeKeyPair(t *testing.T) {

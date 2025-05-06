@@ -9,8 +9,8 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bn254"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/types"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/types"
 )
 
 // StoredData represents the data stored in memory

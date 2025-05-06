@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/consensys/gnark-crypto/ecc/bn254"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/utils"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/utils"
 )
 
 // GenerateRandomSymmetricKeyFromGT creates a new symmetric key of specified size (16, 24, or 32 bytes)

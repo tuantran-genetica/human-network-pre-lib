@@ -6,7 +6,7 @@ import (
 	"io"
 
 	"github.com/consensys/gnark-crypto/ecc/bn254"
-	"github.com/tuantran-genetica/human-network-pre-lib/pre-go/pkg/pre/types"
+	"github.com/lifenetwork-ai/proxy-recrypt-sdk/pre-go/pkg/pre/types"
 	"golang.org/x/crypto/hkdf"
 )
 
